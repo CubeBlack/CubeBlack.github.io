@@ -12,3 +12,5 @@ style: light # dark (default) or light
 
 plugins:
   - jekyll-seo-tag
+
+theme: jekyll-theme-slate
