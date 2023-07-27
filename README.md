@@ -1,3 +1,3 @@
 # CubeBlack.github.io
 
-Perfil proficional e portfoleo
+Perfil Proficional e portfoleo
